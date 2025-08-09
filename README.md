@@ -1,5 +1,5 @@
 # thomasOladipupo
-Here are details of some of my experience so far
+You see, a journey of a thousand miles begin with a step. In my 12 years journey into the world of Do it yourself (DIY). It has been one of both excitement and sometimes painful frustration. From my enthusiasm of building flying things to my delving into the world of Arduino and master level electronics. Some of my experience so far and work are in the links below.
 
 A smart poultry feeder and watering system  https://github.com/Thomas-Oladipupo/Smart-Livestock-feeder-system
 
