@@ -11,3 +11,5 @@ A GPS-based livestock tracker. https://github.com/Thomas-Oladipupo/Livestock-tra
 A health monitoring system with ECG, SpO2, and temperature sensors https://github.com/Thomas-Oladipupo/IOT-multi-parameter-heath-monitoring-system
 
 PCB designs using EasyEDA and functional enclosures created via 3D printing
+
+Automated seed planting Robot https://github.com/Thomas-Oladipupo/Seed-planting-robot
